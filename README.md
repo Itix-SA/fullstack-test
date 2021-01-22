@@ -12,12 +12,10 @@ The objective of this test is to build an API that does simple CRUD operations a
 3. The endpoint that returns the articles should accept pagination, basic filters and sorting.
 
 ### Tasks (Frontend)
-1. Create 2 pages:
-1.1 A page that lists all the news
-1.2 A page where you can see, create OR edit a specific news.
-1.2.1 For the article creation part, use an existing WYSIWYG editor.
-2. Field validation is required.
-3. Successful/error messages should be shown as a Toasts or Snackbars.
+1. Create 2 pages: a page that lists all the news and a page where you can see, create OR edit a specific news.
+2. For the article creation part, use an existing WYSIWYG editor.
+3. Field validation is required.
+4. Successful/error messages should be shown as a Toasts or Snackbars.
 
 ### Suggestions
 1. Feel free to use 3rd party packages if you feel it's justified, don't reinvente the wheel if it's not necessary.
